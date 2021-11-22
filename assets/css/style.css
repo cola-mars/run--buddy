@@ -84,4 +84,7 @@ section {
     padding: 20px;
     width: 500px;
     border: solid 3px #024e76;
+    position: relative;
+    bottom: 120px;
+    right: 140px;
 }
