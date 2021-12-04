@@ -26,7 +26,6 @@ header h1 {
 header a {
     color: #fce138;
     text-decoration: none;
-    color: #fce138;
 }
 header nav {
     margin: 7px 0;
@@ -42,7 +41,7 @@ header nav ul {
 header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
-    font-size: 1.55px;
+    font-size: 1.55vw;
 }
 /*footer*/
 footer {
@@ -84,6 +83,8 @@ section {
     background-color: #fce138;
     padding: 20px;
     color: #024e76;
+    width: 40%;
+    margin: 3.5%;
   }
 .hero-form h3 {
     font-size: 24px;
@@ -104,8 +105,6 @@ section {
 }
 .hero-form p {
     margin: 5px 0 15px 0;
-    width: 40%;
-    margin: 3.5%;
 }
 .form-input {
     border: 1px solid #024e76;
